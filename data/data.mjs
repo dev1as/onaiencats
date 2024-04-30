@@ -1,7 +1,7 @@
 const data = [
     {
         id: 1,
-        imgLocker: `../imgs/locker1.webp`,
+        imgLocker: `./imgs/locker1.webp`,
         title: `offer 1`,
         description: `
            aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -14,7 +14,7 @@ const data = [
 
     {
         id: 2,
-        imgLocker: `../imgs/locker2.jpg`,
+        imgLocker: `./imgs/locker2.jpg`,
         title: `offer 2`,
         description: `
            aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
